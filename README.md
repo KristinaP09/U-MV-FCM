@@ -3,7 +3,7 @@ Matlab code for the paper "Unsupervised Multiview Fuzzy C-Means Clustering Algor
 
 ### Method Description
 
-Our method can find theoptimal number of clusters with high-quality cluster centroids in an efficient manner,called U-MV-FCM.The proposed U-MV-FCM can automatically produce an optimal number of clusters and simultaneously improve the accuracy rate without a parameter setting.The view-points on  themultiview data are assigned as the initial cluster centers and the proposed U-MV-FCM can directly reduce the number of clusters and automatically produce an optimal number of clusters.
+Our method can find the optimal number of clusters with high-quality cluster centroids in an efficient manner, called U-MV-FCM. The proposed U-MV-FCM can automatically produce an optimal number of clusters and simultaneously improve the accuracy rate without a parameter setting.The view-points on  the multiview data are assigned as the initial cluster centers and the proposed U-MV-FCM can directly reduce the number of clusters and automatically produce an optimal number of clusters.
 
 ### Environment
 
