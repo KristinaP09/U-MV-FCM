@@ -1,3 +1,6 @@
+%% Title: Unsupervised multiview fuzzy c-means clustering algorithm
+%% Codes written by Kristina P. Sinaga
+
 close all;clear all;clc
 
 % X: each row is a data point
