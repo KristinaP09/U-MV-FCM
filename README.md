@@ -1,7 +1,7 @@
 # U-MV-FCM
 Matlab code for the paper "Unsupervised Multiview Fuzzy C-Means Clustering Algorithm"
 
-codes written by: Kristina P. Sinaga
+codes written and developed by: Kristina P. Sinaga
 
 ### Method Description
 
